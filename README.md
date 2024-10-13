@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Plain Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+ReactJS
+NodeJS
 
 In the project directory, you can run:
 
